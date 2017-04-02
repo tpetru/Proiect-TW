@@ -1,11 +1,7 @@
-SITE:       http://www.hi2.ro
-USERNAME:   RealLife
-PASSWORD:   RealLifeRPG
-
 SubDomeniu: tweb.hi2.ro
 
 Baza de date:
-DB_HOST   localhost
-DB_NAME   twdb
-DB_USER   twdb
-DB_PASS   twpass
+DB_HOST   
+DB_NAME   
+DB_USER   
+DB_PASS   
