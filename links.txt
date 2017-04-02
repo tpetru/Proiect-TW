@@ -1,7 +1,7 @@
-SubDomeniu: tweb.hi2.ro
+Site: https://goo.gl/Nb0v4Q
+Baza de date: https://goo.gl/camOTX
 
-Baza de date:
-DB_HOST   
-DB_NAME   
-DB_USER   
-DB_PASS   
+DB_HOST   fenrir.info.uaic.ro
+DB_NAME   twebDB
+DB_USER   twebDB
+DB_PASS   MtFjuUtw2J
